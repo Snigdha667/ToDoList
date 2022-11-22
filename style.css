@@ -1,0 +1,75 @@
+body{
+    margin: 0 0 0 0;  
+}
+h1{text-align: left;
+    display: inline;
+    color: white;
+    margin-left:5% ;
+}
+.mylist{padding: 1%;
+    margin: 0;
+    background-color: rgb(4, 163, 248);
+    font-size: 6;
+    text-align: left;
+}
+.input1{
+    margin-left:60%;
+    border-radius: 5%;
+    border:none;
+    padding: 1%;
+    width: 20%;
+}
+.new-task-div{
+    margin: 1%;
+    padding: 2%;
+    border: 1px solid rgb(142, 227, 242);
+}
+.todo-list-div{
+    margin: 1%;
+    padding: 1%;
+    border: 1px solid rgb(142, 227, 242);
+}
+.delete{
+    margin-left: 80%;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20%;
+
+}
+.delete:hover{
+    box-shadow:5px 5px 5px rgb(234, 133, 133);
+}
+.new-task{
+    font-size:xx-large;
+    display: block;
+}
+.complete-list{
+    margin: 1%;
+    padding: 1%;
+    border: 1px solid rgb(142, 227, 242);
+}
+li{
+    padding: 1%;
+    border: 1px solid rgb(142, 227, 242);
+}
+h2{
+    font-size:xx-large;
+    display: block;
+}
+.task1{
+    
+    border-radius: 5%;
+    border: 1px solid rgb(142, 227, 242);
+    padding: 1%;
+    width: 20%;
+}
+.task2{padding: .5%;
+    background-color: black;
+    color: white;
+    font-size: larger;
+    border-radius: 5%;
+}
+.task2:hover{
+    box-shadow:5px 5px 5px grey;
+}
